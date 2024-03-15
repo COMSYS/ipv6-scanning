@@ -1,0 +1,8 @@
+ipv6-scanlist:
+  url: http://template.de/template
+  username: template
+  password: template
+
+ipv6-generators:
+  seedpath: /tmp/seedpath
+  resultpath: /tmp/resultpath
